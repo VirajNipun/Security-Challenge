@@ -1,6 +1,6 @@
 # Security-Challenge
 
-Overview
+# Overview
 
 This repository offers a basic but effective firewall log analysis software created in Python for ABC Inc. The script is intended to parse firewall logs produced by both on-premise Linux machines and AWS security groups. The purpose is to enable ABC Inc. identify and react to possible attacks, expand awareness of traffic patterns, improve network security posture, and comply with industry laws surrounding security log monitoring.
 
